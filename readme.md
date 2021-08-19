@@ -19,3 +19,6 @@ switch expression
 for loops
 break and continue
 function
+returning multiple values
+variadic function
+function value
