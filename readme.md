@@ -1,9 +1,22 @@
 dasar dasar go-lang
 
 hello world
+
+
+
 tipe data number
+
+
+
 tipe data boolean
+
+
+
 tipe data string
+
+
+
+
 variable
 constant
 konversi tipe data
